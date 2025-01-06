@@ -78,7 +78,7 @@ function HeroSection() {
           </div>
           <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
             <p className="text-white text-sm md:text-base mb-4">
-              I'm a final-year B. Tech student with a passion for Natural Language Processing (NLP), backend development, and generative AI. Over the course of my academic journey, I’ve gained hands-on experience in building advanced chatbot solutions and leveraging data science and machine learning techniques to tackle complex challenges. I’m driven by the desire to push the boundaries of what technology can achieve and am actively seeking job opportunities where I can apply my skills to solve real-world problems with AI-powered solutions. 
+              I am a final-year B. Tech student with a passion for Natural Language Processing, backend development, and generative AI. Over the course of my academic journey, I have gained hands-on experience in building advanced chatbot solutions and leveraging data science and machine learning techniques to tackle complex challenges. I am driven by the desire to push the boundaries of what technology can achieve and am actively seeking job opportunities where I can apply my skills to solve real-world problems with AI-powered solutions. 
             </p>
           </div>
         </div>
